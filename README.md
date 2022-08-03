@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/poojan010" target="blank"><img src="https://img.shields.io/twitter/follow/poojan010?logo=twitter&style=for-the-badge" alt="poojan010" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://poojan-bhatt.netlify.app/](https://poojan-bhatt.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://poojan-bhatt.netlify.app/)
 
 - 📫 How to reach me **pdbhatt010@gmail.com**
 
