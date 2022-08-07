@@ -1,7 +1,6 @@
 
 # <samp>&gt; Hi there, I'm <a href="https://poojan-bhatt.netlify.app/" target="_blank">Poojan Bhatt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<br/>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=poojan010&label=Profile%20views&color=0e75b6&style=flat" alt="poojan010" height="25em"/>
@@ -9,8 +8,6 @@
         <img src="https://img.shields.io/twitter/follow/poojan010?logo=twitter&style=for-the-badge" alt="poojan010" height="25em" />
     </a>
 </p>
-
-<br/>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poojan010" alt="poojan010" /></a> </p> -->
 
@@ -40,14 +37,11 @@
     </a>
 </p>
 
-<br/>
 
-<h3 align="left" style="font-family:monospace ">
-    A passionate frontend developer from India. I have experience in Javascript frameworks React and React Native. <br/>
+<h3 align="left" style="font-family:Courier New ">
+    A passionate frontend developer from India. I have experience in Javascript frameworks React and React Native.
     I like to develope the applications that solves every day problems.
 </h3>
-
-<br />
 
 - 👨‍💻  **[Portfolio Site](https://poojan-bhatt.netlify.app/)**
 
