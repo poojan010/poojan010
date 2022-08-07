@@ -1,7 +1,11 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Poojan Bhatt</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# <samp>&gt; Hi there, I'm <a href="https://poojan-bhatt.netlify.app/" target="_blank">Poojan Bhatt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+<h3 align="left">A passionate frontend developer from India</h3>
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=poojan010&label=Profile%20views&color=0e75b6&style=flat" alt="poojan010" />
@@ -14,12 +18,6 @@
         <img src="https://img.shields.io/twitter/follow/poojan010?logo=twitter&style=for-the-badge" alt="poojan010" />
     </a>
 </p>
-
-- 👨‍💻 All of my projects are available at [Portfolio Site](https://poojan-bhatt.netlify.app/)
-
-- 📫 How to reach me **pdbhatt010@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_X4JYKlMil8gn8GL5PkyP6d3f6y_3GK5/view?usp=sharing)
 
 <h3 align="left">Connect with me :</h3>
 
@@ -46,6 +44,16 @@
         <img align="center" src="assets/leetcode-icon.svg" alt="poojan010" height="30" width="40" />
     </a>
 </p>
+
+<br/>
+
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://poojan-bhatt.netlify.app/)
+
+- 📫 How to reach me **pdbhatt010@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_X4JYKlMil8gn8GL5PkyP6d3f6y_3GK5/view?usp=sharing)
+
+<br/>
 
 <h3 align="left">Languages and Tools :</h3>
 
@@ -81,15 +89,13 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojan010&show_icons=true&locale=en&layout=compact" alt="poojan010" />
-</p>
+<br/>
+
+📈 **My GitHub Stats:**
 
 <p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=poojan010&show_icons=true&locale=en" alt="poojan010" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojan010&" alt="poojan010" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=poojan010&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF" alt="poojan010" />
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poojan010&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF&locale=en" alt="poojan010" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojan010&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=27&title_color=FFFFFF" alt="poojan010" />
 </p>
