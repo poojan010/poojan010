@@ -30,7 +30,7 @@
     <a href="https://linkedin.com/in/poojan-bhatt-8b7612187" target="_blank">
         <img align="center" src="assets/linkedin-icon.svg" height="35" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/poojan-bhatt" target="_blank">
+    <a href="https://stackoverflow.com/users/16914783/poojan-bhatt" target="_blank">
         <img align="center" src="assets/stackOverflow-icon.svg" alt="poojan-bhatt" height="30" width="40" />
     </a>
     <a href="https://instagram.com/poojan010" target="_blank">
